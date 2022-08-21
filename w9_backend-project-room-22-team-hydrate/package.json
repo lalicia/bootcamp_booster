@@ -1,0 +1,25 @@
+{
+  "name": "w9_backend-project-room-22-team-hydrate",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node -r dotenv/config server.js",
+    "dev": "nodemon -r -dotenv/config server.js",
+    "db:createResourcesTable": "node -r dotenv/config ./db/scripts/createResourcesTable.js",
+    "db:populateResourcesTable": "node -r dotenv/config ./db/scripts/populateResourcesTable.js",
+    "db:docTable": "node -r dotenv/config ./db/scripts/docTable.js",
+    "db:VideoTable": "node -r dotenv/config ./db/scripts/videoTable.js",
+    "test": "node  -r dotenv/config --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "pg": "^8.7.3",
+    "supertest": "^6.2.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "jest": "^28.1.1"
+  }
+}

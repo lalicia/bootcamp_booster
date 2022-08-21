@@ -12,11 +12,10 @@ The bootcamp is a fast-paced, tough place to be! With so much to learn and only 
 
 ### Create a folder for the application
 
-### Clone the project - you will need to clone both frontend and backend separately, into separate folders within the new folder you just created
+### Clone the project
 
 ```bash
-  git clone https://github.com/SchoolOfCode/w9_backend-project-room-22-team-hydrate
-  git clone https://github.com/SchoolOfCode/w9_frontend-project-room-22-team-hydrate
+  git clone https://github.com/lalicia/bootcamp_booster.git
 ```
 
 ### Go to the project directories - to run both frontend and backend, use separate terminals to navigate into each individually
@@ -150,7 +149,7 @@ const fetchItems = async () => {
 ### The Express Server in turn sends a GET request to the database:
 
 ```js
-resourcesRoute.get("/:id", async function(req, res) {
+resourcesRoute.get("/:id", async function (req, res) {
   const resourcesID = req.params.id;
   console.log(resourcesID);
   let resources = await getTopicResources(resourcesID);

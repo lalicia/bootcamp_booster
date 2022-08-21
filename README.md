@@ -14,7 +14,7 @@ Bootcamp Booster is our solution for providing curated resources to bootcampers 
 
 ## Documentation
 
-[Documentation](https://github.com/lalicia/bootcamp_booster/blob/main/w9_frontend-project-room-22-team-hydrate/DOCUMENTATION.md)
+[Documentation](https://github.com/lalicia/bootcamp_booster/blob/main/DOCUMENTATION.md)
 
 ## Lessons Learned
 
@@ -53,14 +53,14 @@ We removed inline styles and put these in our central CSS file, taking the decis
 
 Homepage upon starting/opening application:
 
-<img src="./readmeImages/Homepage.JPG" alt="homepage screenshot" width="500px" />
+<img src="./w9_frontend-project-room-22-team-hydrate/readmeImages/Homepage.JPG" alt="homepage screenshot" width="500px" />
 
 Example Topic Pages once selected from Homepage:
 
-<img src="./readmeImages/CssTopicPage.JPG" alt="css topic screenshot" width="500px" />
+<img src="./w9_frontend-project-room-22-team-hydrate/readmeImages/CssTopicPage.JPG" alt="css topic screenshot" width="500px" />
 
-<img src="./readmeImages/ReactTopicPage.JPG" alt="react topic screenshot" width="500px" />
+<img src="./w9_frontend-project-room-22-team-hydrate/readmeImages/ReactTopicPage.JPG" alt="react topic screenshot" width="500px" />
 
 Error Page to catch address bar typos or topics currently unavailable:
 
-<img src="./readmeImages/ErrorPage.JPG" alt="error page screenshot" width="500px" />
+<img src="./w9_frontend-project-room-22-team-hydrate/readmeImages/ErrorPage.JPG" alt="error page screenshot" width="500px" />

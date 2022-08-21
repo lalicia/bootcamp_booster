@@ -53,14 +53,14 @@ We removed inline styles and put these in our central CSS file, taking the decis
 
 Homepage upon starting/opening application:
 
-<img src="./w9_frontend-project-room-22-team-hydrate/readmeImages/Homepage.JPG" alt="homepage screenshot" width="500px" />
+<img src="./w9_frontend-project-room-22-team-hydrate/readmeImages/Homepage.JPG" alt="homepage screenshot" width="750px" />
 
 Example Topic Pages once selected from Homepage:
 
-<img src="./w9_frontend-project-room-22-team-hydrate/readmeImages/CssTopicPage.JPG" alt="css topic screenshot" width="500px" />
+<img src="./w9_frontend-project-room-22-team-hydrate/readmeImages/CssTopicPage.JPG" alt="css topic screenshot" width="750px" />
 
-<img src="./w9_frontend-project-room-22-team-hydrate/readmeImages/ReactTopicPage.JPG" alt="react topic screenshot" width="500px" />
+<img src="./w9_frontend-project-room-22-team-hydrate/readmeImages/ReactTopicPage.JPG" alt="react topic screenshot" width="750px" />
 
 Error Page to catch address bar typos or topics currently unavailable:
 
-<img src="./w9_frontend-project-room-22-team-hydrate/readmeImages/ErrorPage.JPG" alt="error page screenshot" width="500px" />
+<img src="./w9_frontend-project-room-22-team-hydrate/readmeImages/ErrorPage.JPG" alt="error page screenshot" width="750px" />
